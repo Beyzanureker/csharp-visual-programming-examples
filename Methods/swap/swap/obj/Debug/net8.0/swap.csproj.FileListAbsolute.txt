@@ -1,0 +1,14 @@
+C:\Users\BEYZA\Desktop\c#\swap\swap\bin\Debug\net8.0\swap.exe
+C:\Users\BEYZA\Desktop\c#\swap\swap\bin\Debug\net8.0\swap.deps.json
+C:\Users\BEYZA\Desktop\c#\swap\swap\bin\Debug\net8.0\swap.runtimeconfig.json
+C:\Users\BEYZA\Desktop\c#\swap\swap\bin\Debug\net8.0\swap.dll
+C:\Users\BEYZA\Desktop\c#\swap\swap\bin\Debug\net8.0\swap.pdb
+C:\Users\BEYZA\Desktop\c#\swap\swap\obj\Debug\net8.0\swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEYZA\Desktop\c#\swap\swap\obj\Debug\net8.0\swap.AssemblyInfoInputs.cache
+C:\Users\BEYZA\Desktop\c#\swap\swap\obj\Debug\net8.0\swap.AssemblyInfo.cs
+C:\Users\BEYZA\Desktop\c#\swap\swap\obj\Debug\net8.0\swap.csproj.CoreCompileInputs.cache
+C:\Users\BEYZA\Desktop\c#\swap\swap\obj\Debug\net8.0\swap.dll
+C:\Users\BEYZA\Desktop\c#\swap\swap\obj\Debug\net8.0\refint\swap.dll
+C:\Users\BEYZA\Desktop\c#\swap\swap\obj\Debug\net8.0\swap.pdb
+C:\Users\BEYZA\Desktop\c#\swap\swap\obj\Debug\net8.0\swap.genruntimeconfig.cache
+C:\Users\BEYZA\Desktop\c#\swap\swap\obj\Debug\net8.0\ref\swap.dll

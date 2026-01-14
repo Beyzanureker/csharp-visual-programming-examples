@@ -1,0 +1,14 @@
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\obj\Debug\net8.0\class_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\obj\Debug\net8.0\class_1.AssemblyInfoInputs.cache
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\obj\Debug\net8.0\class_1.AssemblyInfo.cs
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\obj\Debug\net8.0\class_1.csproj.CoreCompileInputs.cache
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\bin\Debug\net8.0\class_1.exe
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\bin\Debug\net8.0\class_1.deps.json
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\bin\Debug\net8.0\class_1.runtimeconfig.json
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\bin\Debug\net8.0\class_1.dll
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\bin\Debug\net8.0\class_1.pdb
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\obj\Debug\net8.0\class_1.dll
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\obj\Debug\net8.0\refint\class_1.dll
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\obj\Debug\net8.0\class_1.pdb
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\obj\Debug\net8.0\class_1.genruntimeconfig.cache
+C:\Users\BEYZA\Desktop\c#\class_1\class_1\obj\Debug\net8.0\ref\class_1.dll

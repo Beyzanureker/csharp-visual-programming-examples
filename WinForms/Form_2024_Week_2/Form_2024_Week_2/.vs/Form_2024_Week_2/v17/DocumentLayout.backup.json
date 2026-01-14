@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nesay\\Desktop\\Lisans_Dersler\\2021_M\u00FCdek\\CPE317VisualPRogramming\\CPE317\\2024-2025\\Form_Uygulamalar\u0131\\Form_2024_Week_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303ED5B8-CE94-4352-AF2C-682E9944965B}|Form_2024_Week_2\\Form_2024_Week_2.csproj|c:\\users\\nesay\\desktop\\lisans_dersler\\2021_m\u00FCdek\\cpe317visualprogramming\\cpe317\\2024-2025\\form_uygulamalar\u0131\\form_2024_week_2\\form_2024_week_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{303ED5B8-CE94-4352-AF2C-682E9944965B}|Form_2024_Week_2\\Form_2024_Week_2.csproj|solutionrelative:form_2024_week_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303ED5B8-CE94-4352-AF2C-682E9944965B}|Form_2024_Week_2\\Form_2024_Week_2.csproj|c:\\users\\nesay\\desktop\\lisans_dersler\\2021_m\u00FCdek\\cpe317visualprogramming\\cpe317\\2024-2025\\form_uygulamalar\u0131\\form_2024_week_2\\form_2024_week_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303ED5B8-CE94-4352-AF2C-682E9944965B}|Form_2024_Week_2\\Form_2024_Week_2.csproj|solutionrelative:form_2024_week_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nesay\\Desktop\\Lisans_Dersler\\2021_M\u00FCdek\\CPE317VisualPRogramming\\CPE317\\2024-2025\\Form_Uygulamalar\u0131\\Form_2024_Week_2\\Form_2024_Week_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form_2024_Week_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\nesay\\Desktop\\Lisans_Dersler\\2021_M\u00FCdek\\CPE317VisualPRogramming\\CPE317\\2024-2025\\Form_Uygulamalar\u0131\\Form_2024_Week_2\\Form_2024_Week_2\\Form1.cs",
+              "RelativeToolTip": "Form_2024_Week_2\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA7wBYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:15:24.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nesay\\Desktop\\Lisans_Dersler\\2021_M\u00FCdek\\CPE317VisualPRogramming\\CPE317\\2024-2025\\Form_Uygulamalar\u0131\\Form_2024_Week_2\\Form_2024_Week_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form_2024_Week_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\nesay\\Desktop\\Lisans_Dersler\\2021_M\u00FCdek\\CPE317VisualPRogramming\\CPE317\\2024-2025\\Form_Uygulamalar\u0131\\Form_2024_Week_2\\Form_2024_Week_2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form_2024_Week_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:03:26.843Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

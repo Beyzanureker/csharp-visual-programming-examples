@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nesay\\Desktop\\Lisans_Dersler\\2021_M\u00FCdek\\CPE317VisualPRogramming\\CPE317\\2024-2025\\Form_Uygulamalar\u0131\\Form_2024_Week_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7BA5DA-796C-4154-B2CF-DC315FD9F384}|Form_2024_Week_3\\Form_2024_Week_3.csproj|C:\\Users\\nesay\\Desktop\\Lisans_Dersler\\2021_M\u00FCdek\\CPE317VisualPRogramming\\CPE317\\2024-2025\\Form_Uygulamalar\u0131\\Form_2024_Week_3\\form_2024_week_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C7BA5DA-796C-4154-B2CF-DC315FD9F384}|Form_2024_Week_3\\Form_2024_Week_3.csproj|solutionrelative:form_2024_week_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7BA5DA-796C-4154-B2CF-DC315FD9F384}|Form_2024_Week_3\\Form_2024_Week_3.csproj|c:\\users\\nesay\\desktop\\lisans_dersler\\2021_m\u00FCdek\\cpe317visualprogramming\\cpe317\\2024-2025\\form_uygulamalar\u0131\\form_2024_week_3\\form_2024_week_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7BA5DA-796C-4154-B2CF-DC315FD9F384}|Form_2024_Week_3\\Form_2024_Week_3.csproj|solutionrelative:form_2024_week_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:209863085:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nesay\\Desktop\\Lisans_Dersler\\2021_M\u00FCdek\\CPE317VisualPRogramming\\CPE317\\2024-2025\\Form_Uygulamalar\u0131\\Form_2024_Week_3\\Form_2024_Week_3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form_2024_Week_3\\Form1.cs",
+              "ToolTip": "C:\\Users\\nesay\\Desktop\\Lisans_Dersler\\2021_M\u00FCdek\\CPE317VisualPRogramming\\CPE317\\2024-2025\\Form_Uygulamalar\u0131\\Form_2024_Week_3\\Form_2024_Week_3\\Form1.cs",
+              "RelativeToolTip": "Form_2024_Week_3\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:02:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nesay\\Desktop\\Lisans_Dersler\\2021_M\u00FCdek\\CPE317VisualPRogramming\\CPE317\\2024-2025\\Form_Uygulamalar\u0131\\Form_2024_Week_3\\Form_2024_Week_3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form_2024_Week_3\\Form1.cs",
+              "ToolTip": "C:\\Users\\nesay\\Desktop\\Lisans_Dersler\\2021_M\u00FCdek\\CPE317VisualPRogramming\\CPE317\\2024-2025\\Form_Uygulamalar\u0131\\Form_2024_Week_3\\Form_2024_Week_3\\Form1.cs [Design]",
+              "RelativeToolTip": "Form_2024_Week_3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:33:27.911Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

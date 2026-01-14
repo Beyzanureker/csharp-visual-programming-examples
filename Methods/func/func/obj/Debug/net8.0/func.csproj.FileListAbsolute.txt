@@ -1,0 +1,14 @@
+C:\Users\BEYZA\Desktop\c#\func\func\bin\Debug\net8.0\func.exe
+C:\Users\BEYZA\Desktop\c#\func\func\bin\Debug\net8.0\func.deps.json
+C:\Users\BEYZA\Desktop\c#\func\func\bin\Debug\net8.0\func.runtimeconfig.json
+C:\Users\BEYZA\Desktop\c#\func\func\bin\Debug\net8.0\func.dll
+C:\Users\BEYZA\Desktop\c#\func\func\bin\Debug\net8.0\func.pdb
+C:\Users\BEYZA\Desktop\c#\func\func\obj\Debug\net8.0\func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEYZA\Desktop\c#\func\func\obj\Debug\net8.0\func.AssemblyInfoInputs.cache
+C:\Users\BEYZA\Desktop\c#\func\func\obj\Debug\net8.0\func.AssemblyInfo.cs
+C:\Users\BEYZA\Desktop\c#\func\func\obj\Debug\net8.0\func.csproj.CoreCompileInputs.cache
+C:\Users\BEYZA\Desktop\c#\func\func\obj\Debug\net8.0\func.dll
+C:\Users\BEYZA\Desktop\c#\func\func\obj\Debug\net8.0\refint\func.dll
+C:\Users\BEYZA\Desktop\c#\func\func\obj\Debug\net8.0\func.pdb
+C:\Users\BEYZA\Desktop\c#\func\func\obj\Debug\net8.0\func.genruntimeconfig.cache
+C:\Users\BEYZA\Desktop\c#\func\func\obj\Debug\net8.0\ref\func.dll

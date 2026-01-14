@@ -1,0 +1,14 @@
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\bin\Debug\net8.0\ref_avg.exe
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\bin\Debug\net8.0\ref_avg.deps.json
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\bin\Debug\net8.0\ref_avg.runtimeconfig.json
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\bin\Debug\net8.0\ref_avg.dll
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\bin\Debug\net8.0\ref_avg.pdb
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\obj\Debug\net8.0\ref_avg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\obj\Debug\net8.0\ref_avg.AssemblyInfoInputs.cache
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\obj\Debug\net8.0\ref_avg.AssemblyInfo.cs
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\obj\Debug\net8.0\ref_avg.csproj.CoreCompileInputs.cache
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\obj\Debug\net8.0\ref_avg.dll
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\obj\Debug\net8.0\refint\ref_avg.dll
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\obj\Debug\net8.0\ref_avg.pdb
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\obj\Debug\net8.0\ref_avg.genruntimeconfig.cache
+C:\Users\BEYZA\Desktop\c#\ref_avg\ref_avg\obj\Debug\net8.0\ref\ref_avg.dll

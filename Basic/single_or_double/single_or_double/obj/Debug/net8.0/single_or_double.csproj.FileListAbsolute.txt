@@ -1,0 +1,14 @@
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\obj\Debug\net8.0\single_or_double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\obj\Debug\net8.0\single_or_double.AssemblyInfoInputs.cache
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\obj\Debug\net8.0\single_or_double.AssemblyInfo.cs
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\obj\Debug\net8.0\single_or_double.csproj.CoreCompileInputs.cache
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\bin\Debug\net8.0\single_or_double.exe
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\bin\Debug\net8.0\single_or_double.deps.json
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\bin\Debug\net8.0\single_or_double.runtimeconfig.json
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\bin\Debug\net8.0\single_or_double.dll
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\bin\Debug\net8.0\single_or_double.pdb
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\obj\Debug\net8.0\single_or_double.dll
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\obj\Debug\net8.0\refint\single_or_double.dll
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\obj\Debug\net8.0\single_or_double.pdb
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\obj\Debug\net8.0\single_or_double.genruntimeconfig.cache
+C:\Users\BEYZA\Desktop\c#\single_or_double\single_or_double\obj\Debug\net8.0\ref\single_or_double.dll
